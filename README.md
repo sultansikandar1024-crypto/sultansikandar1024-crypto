@@ -1,7 +1,7 @@
 <!-- ========== HEADER ========== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FF7,100:FF00C8&height=220&section=header&text=Abdul%20Jabbar%20Sikandar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20C%2B%2B%20%7C%203D%20Designer%20%7C%20Digital%20Marketer&descSize=16&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FF7,100:FF00C8&height=220&section=header&text=Abdul%20Jabbar%20Sikandar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20C%2B%2B%20%7C%203D%20Designer%20%7C%20Digital%20Marketer&descSize=16&descAlignY=60&animation=twinkling" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Sikandar;BSCS+Student+%40+Bahria+University+Islamabad;Building+Web+Apps+%26+SaaS+Products;ICPC+Asia+Topi+2026+%E2%80%94+Rank+17+in+Pakistan;Turning+code+into+income+%F0%9F%9A%80" alt="Typing SVG" />
@@ -16,6 +16,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sultansikandar1024-crypto/sultansikandar1024-crypto/main/skills-marquee.svg" alt="Skills" width="100%" />
+</div>
+
 ## 👨‍💻 &nbsp;About Me
 
 ```js
@@ -28,36 +32,6 @@ const sikandar = {
   currentFocus: "Building scalable products + long-term income streams",
   funFact: "I design 3D, run ads, and ship code. All in one. ⚡"
 };
-```
-
----
-
-## 💻 &nbsp;Terminal
-
-```bash
-┌──(sikandar㉿bahria)-[~]
-└─$ whoami
-abdul-jabbar-sikandar
-
-┌──(sikandar㉿bahria)-[~]
-└─$ cat about.txt
-BSCS student @ Bahria University, Islamabad 🇵🇰
-Full-stack dev (MERN) | C++ | 3D design | Digital marketing
-
-┌──(sikandar㉿bahria)-[~]
-└─$ ls skills/
-react/  node/  mongodb/  cpp/  oop/  3d-design/  meta-ads/
-
-┌──(sikandar㉿bahria)-[~]
-└─$ cat achievements.txt
-🏆 ICPC Asia Topi 2026 (Online Preliminary): Rank 17 in Pakistan
-
-┌──(sikandar㉿bahria)-[~]
-└─$ echo $STATUS
-Building an Email Automation SaaS. Open to collaborations 🚀
-
-┌──(sikandar㉿bahria)-[~]
-└─$ _
 ```
 
 ---
@@ -141,6 +115,14 @@ Building an Email Automation SaaS. Open to collaborations 🚀
 
 <img src="https://streak-stats.demolab.com?user=sultansikandar1024-crypto&theme=dark&hide_border=true&background=0d1117&ring=00F5FF&fire=FF00C8&currStreakLabel=00F5FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
 
+</div>
+
+---
+
+## 📈 &nbsp;Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sultansikandar1024-crypto&bg_color=0d1117&color=00F5FF&line=FF00C8&point=FFFFFF&area=true&area_color=7B2FF7&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
