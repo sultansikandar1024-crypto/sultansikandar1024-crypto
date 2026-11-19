@@ -32,6 +32,36 @@ const sikandar = {
 
 ---
 
+## 💻 &nbsp;Terminal
+
+```bash
+┌──(sikandar㉿bahria)-[~]
+└─$ whoami
+abdul-jabbar-sikandar
+
+┌──(sikandar㉿bahria)-[~]
+└─$ cat about.txt
+BSCS student @ Bahria University, Islamabad 🇵🇰
+Full-stack dev (MERN) | C++ | 3D design | Digital marketing
+
+┌──(sikandar㉿bahria)-[~]
+└─$ ls skills/
+react/  node/  mongodb/  cpp/  oop/  3d-design/  meta-ads/
+
+┌──(sikandar㉿bahria)-[~]
+└─$ cat achievements.txt
+🏆 ICPC Asia Topi 2026 (Online Preliminary): Rank 17 in Pakistan
+
+┌──(sikandar㉿bahria)-[~]
+└─$ echo $STATUS
+Building an Email Automation SaaS. Open to collaborations 🚀
+
+┌──(sikandar㉿bahria)-[~]
+└─$ _
+```
+
+---
+
 ## 🏆 &nbsp;Achievements
 
 <div align="center">
