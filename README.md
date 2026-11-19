@@ -36,6 +36,14 @@ const sikandar = {
 
 ---
 
+## ⚡ &nbsp;System Boot
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sultansikandar1024-crypto/sultansikandar1024-crypto/main/hacker-terminal.svg" alt="Hacker terminal animation" width="100%" />
+</div>
+
+---
+
 ## 🏆 &nbsp;Achievements
 
 <div align="center">
